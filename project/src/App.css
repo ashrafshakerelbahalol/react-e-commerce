@@ -1,0 +1,22 @@
+.bg-main{
+  background-color:rgb(105, 141, 218) ;
+}
+:root {
+  --bs-primary: #848cd4;
+  --bs-secondary: #385c74;
+}
+.btn {
+  --bs-btn-border-width: 0;
+  --bs-btn-border-radius: 0;
+  --bs-btn-padding-x: 1.5rem;
+  --bs-btn-padding-y: 0.5rem;
+}
+
+
+img{
+  height: 500px;
+  width: 713px;
+}
+footer{
+  background-color: #3243d6;
+}
